@@ -1,1 +1,4 @@
-print_h1 ("Hello world")
+def main(msg):
+    print(msg)
+
+main("Hello People")
